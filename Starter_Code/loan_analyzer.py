@@ -11,6 +11,9 @@ First, let's start with some calculations on a list of prices for 5 loans.
     2. Use the `sum` function to calculate the total of all loans in the list.
     3. Using the sum of all loans and the total number of loans, calculate the average loan price.
     4. Print all calculations with descriptive messages.
+
+Norma, Bogey Dash
+
 """
 loan_costs = [500, 600, 200, 1000, 450]
 
@@ -18,6 +21,7 @@ loan_costs = [500, 600, 200, 1000, 450]
 # @TODO: Use the `len` function to calculate the total number of loans in the list.
 # Print the number of loans from the list
 # YOUR CODE HERE!
+# NORMA CANNOT CODE...YET!
 
 # What is the total of all loans?
 # @TODO: Use the `sum` function to calculate the total of all loans in the list.
